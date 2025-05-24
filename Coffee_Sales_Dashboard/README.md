@@ -1,6 +1,7 @@
 # Coffee_Sales_Dashboard
 
-![image](https://github.com/user-attachments/assets/1b4bf11c-467a-4593-90b0-8ab4e267ef48)
+![image](https://github.com/user-attachments/assets/11a59e16-21ef-4041-918c-4f4b7fb12d5f)
+
 
 ## Introduction
 
@@ -9,7 +10,7 @@ This coffee sales dashboard was created to showcase coffee businesses investigat
 The data contains detailed information on total sales over time for different coffee types, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in[here](Coffee_Sales_Dashboard)
+My final dashboard is in [here](Coffee_Sales_Dashboard)
 
 ### Excel Skills Used
 
@@ -32,9 +33,9 @@ It includes detailed information on:
 
 ### 📉 Charts
 
-#### 📊 Total Sales Over Time - Bar Chart
+#### 📊 Total Sales Over Time - Line Chart
 
-![image](https://github.com/user-attachments/assets/c6e9863d-a3e9-4361-84fe-ab4b09c22da8)
+![image](https://github.com/user-attachments/assets/a362c697-0865-45ae-adc2-34297e2dcbdb)
 
 
 - 🛠️ **Excel Features:** Utilized line chart feature and optimized layout for clarity.
@@ -43,8 +44,7 @@ It includes detailed information on:
 
 #### 🗺️ Top 5 Customers - Bar Chart
 
-![image](https://github.com/user-attachments/assets/200f480b-f72b-461f-a7c3-1208ebfb224e)
-
+![image](https://github.com/user-attachments/assets/9516564d-2a9f-4f69-8124-5f3d6aa91770)
 
 
 - 🛠️ **Excel Features:** Utilized Excel's bar chart feature the Top 5 Customers.
@@ -54,7 +54,7 @@ It includes detailed information on:
 
 🍽️ Sales By Country
 
-![image](https://github.com/user-attachments/assets/0fbf8805-0611-47cf-b752-8505fdcc640b)
+![image](https://github.com/user-attachments/assets/3fb6ee02-930b-4344-a740-cbf5cfbd8a9a)
 
 - 🛠️ **Excel Features:** Utilized Excel's bar chart feature the Sales By Country.
 - 📊 **Data Representation:** Displayed coffee sales for each country.
@@ -63,7 +63,7 @@ It includes detailed information on:
 
 📉 Dashboard Implementation
 
-![image](https://github.com/user-attachments/assets/7a599d81-a7f9-4266-bb06-474b687f4240)
+![image](https://github.com/user-attachments/assets/69860f25-399d-4977-ac46-36c9359d204e)
 
 
 - Order Date Slicer: This excel slicer filters the date to return a specific timeline of coffee sales
