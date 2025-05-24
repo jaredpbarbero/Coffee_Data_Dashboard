@@ -10,7 +10,7 @@ This coffee sales dashboard was created to showcase coffee businesses investigat
 The data contains detailed information on total sales over time for different coffee types, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [here](Coffee_Sales_Dashboard)
+My final dashboard is in [here](Coffee Sales Dashboard.xlsx)
 
 ### Excel Skills Used
 
